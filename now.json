@@ -1,10 +1,9 @@
 {
-	"alias": ["basistov-ag", 
-				"basistov.ru",
-				"basistov.su",
-				"www.basistov.ru",
-				"www.basistov.su"
-			],
+	"alias": ["basistov-ag",
+"basistov.ru",
+"basistov.su",
+"www.basistov.ru",
+"www.basistov.su"],
 	"version": 2,
 	"name": "basistov-ag",
 	"builds":
