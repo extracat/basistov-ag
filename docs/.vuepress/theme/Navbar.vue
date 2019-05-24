@@ -17,7 +17,7 @@
         class="site-name"
         v-if="$siteTitle"
         :class="{ 'can-hide': $site.themeConfig.logo }"
-      >{{ $siteName }}</span>
+      >{{ "Басистов А. Г." }}</span>
     </router-link>
 
     <div
