@@ -1,1 +1,17 @@
-{"version":2,"name":"basistov-ag","builds":[{"src":"package.json","use":"@now/static-build"}]}
+{
+	"alias": [	"basistov-ag", 
+				"basistov.ru",
+				"basistov.su",
+				"www.basistov.ru",
+				"www.basistov.su",
+			],
+	"version": 2,
+	"name": "basistov-ag",
+	"builds":
+	[
+		{
+			"src":"package.json",
+			"use":"@now/static-build"
+		}
+	]
+}
