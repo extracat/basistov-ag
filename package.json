@@ -11,5 +11,8 @@
   },
   "devDependencies": {
     "vuepress": "^0.14.11"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15"
   }
 }
