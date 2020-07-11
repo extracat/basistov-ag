@@ -11,12 +11,12 @@ footer: Для связи — Басистов Владимир Анатолие
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/7hYdJbxZ6FI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+Н.В. Михайлов про ПРО для док.фильма Открытое небо.
 
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/uHmCbkDJxek" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Вспоминаем с теми, кто ещё с нами: ниирп-юбилей о работе, о литературе, об учителях, об истине, ...
+Вспоминаем с теми, кто ещё с нами: ниирп-юбилей о работе, о литературе, об учителях, об истине.
 
 
 ## Фотографии
