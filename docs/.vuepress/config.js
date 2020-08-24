@@ -4,9 +4,9 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: 'Главная', link: '/' },
-      { text: 'Фотоархив', link: '/photo/' },
-
-    ]
+      { text: 'Статьи', link: '/articles/' },
+      { text: 'Фотоархив', link: '/photo/' }
+   ]
   }
 }
 
