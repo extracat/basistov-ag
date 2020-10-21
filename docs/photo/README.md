@@ -17,7 +17,9 @@ footer: Для связи — Басистов Владимир Анатолие
 
 Н.В. Михайлов про ПРО для док.фильма «Закрытое небо 2».
 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/7bTBVYUz-QY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Поездка в Израиль (с VHS кассеты В.К. Слоки, середина 90-х)
 
 ## Фотографии
 
