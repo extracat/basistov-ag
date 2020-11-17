@@ -85,7 +85,7 @@ footer: Для связи — Басистов Владимир Анатолие
 
 [![An image 22](./20200704_18_17_25_small.jpg)](/photo/20200704_18_17_25_original.jpg)
 
-[//]: # [![An image 24](./20200704_18_16_17_small.jpg)](/photo/20200704_18_16_17_original.jpg)
+<!-- [![An image 24](./20200704_18_16_17_small.jpg)](/photo/20200704_18_16_17_original.jpg) -->
 
 [![An image 26](./20200704_18_15_02_small.jpg)](/photo/20200704_18_15_02_original.jpg)
 
